@@ -1,20 +1,12 @@
 <template>
-  <div>
-    <NuxtLogo/>
-    <h1>메인 페이지2</h1>
-  </div>
-</template>
-
-<script>
-import NuxtLogo from '../components/NuxtLogo.vue';
+    <div>
+    </div>
+  </template>
+  
+  <script>
+  export default {
     
-export default {
-  components:{
-    NuxtLogo,
   }
-}
-</script>
-
-<style>
-
-</style>
+  </script>
+  <style></style>
+  
