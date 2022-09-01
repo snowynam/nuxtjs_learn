@@ -11,6 +11,9 @@ module.exports = {
   extends: ['@nuxtjs', 'plugin:nuxt/recommended', 'prettier'],
   plugins: [],
   // add your custom rules here
-  rules: { 'vue/multi-word-component-names': 0 }
+  rules: { 
+    'vue/multi-word-component-names': 0,
+    'eslint/use-at-your-own-risk' : 0
+  }
   
 }

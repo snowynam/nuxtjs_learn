@@ -36,4 +36,9 @@ export default {
   build: {},
 
   telemetry: true,
+
+  // server setup
+  server: {
+    port: 5000,
+  }
 }
