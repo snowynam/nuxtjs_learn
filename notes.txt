@@ -3,3 +3,15 @@ npm i
 
 https://jsonplaceholder.typicode.com/
 https://github.com/typicode/json-server
+
+
+====================
+axios 설치
+npm i axios
+
+
+
+
+npm i eslint --save-dev
+
+npm install eslint-plugin-nuxt --save-dev
