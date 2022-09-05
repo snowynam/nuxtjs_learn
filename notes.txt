@@ -1,3 +1,17 @@
+npm init nuxt-app <프로젝트명>
+(npm init nuxt-app@3.6.0 learn-nuxt) 3.6버전
+npm init nuxt-app learn-nuxt
+
+? UI framework: None
+? Nuxt.js modules: (Press <space> to select, <a> to toggle all, <i> to invert selection)
+? Linting tools: ESLint, Prettier    
+? Testing framework: None
+? Rendering mode: Universal (SSR / SSG)
+? Deployment target: Server (Node.js hosting)
+? Development tools: jsconfig.json (Recommended for VS Code if you're not using typescript)
+? Continuous integration: None
+? Version control system: Git
+
 backend 아래
 npm i
 
@@ -8,9 +22,6 @@ https://github.com/typicode/json-server
 ====================
 axios 설치
 npm i axios
-
-
-
 
 npm i eslint --save-dev
 
