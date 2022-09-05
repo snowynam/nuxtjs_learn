@@ -26,3 +26,6 @@ npm i axios
 npm i eslint --save-dev
 
 npm install eslint-plugin-nuxt --save-dev
+
+
+asyncData()는 pages 아래에서만 쓸 수 있다.
